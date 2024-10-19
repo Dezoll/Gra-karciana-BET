@@ -1,0 +1,14 @@
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\bin\Debug\net6.0\GrawBETA.exe
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\bin\Debug\net6.0\GrawBETA.deps.json
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\bin\Debug\net6.0\GrawBETA.runtimeconfig.json
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\bin\Debug\net6.0\GrawBETA.dll
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\bin\Debug\net6.0\GrawBETA.pdb
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.AssemblyInfoInputs.cache
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.AssemblyInfo.cs
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.csproj.CoreCompileInputs.cache
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.dll
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\refint\GrawBETA.dll
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.pdb
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\GrawBETA.genruntimeconfig.cache
+C:\Users\ckwJa\source\repos\GrawBETA\GrawBETA\obj\Debug\net6.0\ref\GrawBETA.dll
